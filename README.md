@@ -3,7 +3,7 @@
 
 An educational Streamlit dashboard for exploring credit risk analytics in a Buy Now, Pay Later context. It brings portfolio measures, customer risk profiles, stress testing, model comparison, SHAP explainability, and a sample application affordability assessment into one interface.
 
-> **Important:** This is an educational prototype, not a validated BNPL model or a real lending decision system. It uses historical credit-card data as a proxy; its results should not be used to approve or reject real applicants.
+> **Important:** This is an educational prototype, not a validated BNPL model or a real lending decision system. It uses historical credit-card data as a proxy.
 
 ## Features
 
