@@ -94,5 +94,4 @@ The UCI dataset page lists the dataset under the **Creative Commons Attribution 
 - The application assessment is illustrative and should not be used to make real credit decisions.
 
 ## Responsible use
-
-Use this dashboard for learning and demonstration. Do not use its predictions or recommendations to make decisions about real people or lending applications.
+Educational prototype using historical credit-card data. Results are illustrative and have not been validated for real BNPL lending decisions.
