@@ -94,7 +94,7 @@ The UCI dataset page lists the dataset under the **Creative Commons Attribution 
 - The application assessment is illustrative and should not be used to make real credit decisions.
 
 ## Project links
-Source code: [GitHub Repository] ()
+Source code: [GitHub Repository] (https://github.com/anjali3876/Buy-Now-Pay-later-BNPL-Credit-Risk-Analytics)
 Video demo: 
 
 ## Responsible use
